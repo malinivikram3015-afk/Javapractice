@@ -1,3 +1,4 @@
+import java.util.*;
 class malu{
   public static void main (String [] args){
     int a = 10;
